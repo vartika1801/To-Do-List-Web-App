@@ -22,15 +22,4 @@ A simple and elegant **To-Do List** web application built using **Flask** for th
 
 ---
 
-## 📂 Project Structure
-flask-todo-app/
-│
-├── static/
-│   └── style.css            # All your CSS styles
-│
-├── templates/
-│   └── index.html           # Main HTML page
-│
-├── app.py                   # Main Flask application
-├── requirements.txt         # List of dependencies
-└── README.md                # This file
+<pre> ##  Project Structure ``` flask-todo-app/ │ ├── static/ │ └── style.css # All your CSS styles │ ├── templates/ │ └── index.html # Main HTML page │ ├── app.py # Main Flask application ├── requirements.txt # List of dependencies └── README.md # This file ``` </pre>
